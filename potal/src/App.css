@@ -1,0 +1,65 @@
+*{
+  font-family: 'NanumSquare', sans-serif;
+}
+
+h1{
+  background-color: #EFEFEF;
+  color:#707070;
+  font-size: 20px;
+  margin: 50px auto;
+  padding:50px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.potal_page{
+  background-color: #EFEFEF;
+  width: 300px;
+  height: 80px;
+  margin:-50px 0px 0px 70px; 
+}
+
+.potal_login input{
+  background-color: #ffffff;
+  float: left;
+  width: 65%;
+  padding:10px 5px 10px 10px;
+  border:10px rgb(63, 63, 63);
+
+}
+
+#potal{
+  background-color: #EFEFEF;
+  width: 400px;
+  height: 300px;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.clear{
+  background-color: #95C6F0;
+  clear: both;
+}
+
+
+input[type="submit"] {
+  float: left;
+  display:block;
+  height: 76px;
+  width: 80px;
+  font-size: large;
+  color:white;
+  background: #95C6F0;
+  border: none;
+  margin-top:-38px;
+ }
+
+ input[type="button"] {
+  text-decoration: black;
+  border: black;
+  background-color: #EFEFEF;
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 17px;
+
+ }
